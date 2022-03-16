@@ -1,7 +1,7 @@
 ### Hi there 👋
 #
 
-- 🌱 I'm currently learning Java, Spring, Angular, Databases, cloud development and more.
+- 🌱 I'm currently learning Java, Spring, Angular, Databases, Cloud Development and more.
 <div align="center">
   <a href="https://github.com/v-venturi?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v-venturi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
